@@ -1,0 +1,421 @@
+@media (max-width: 320px) {
+    .menu {display: none;
+    }
+    header {
+        width: 320px;
+        height: 702px;
+    }
+    .imgman img {
+        /* object-fit: cover; */
+        width: 320px;
+    }
+    nav a img {
+        width: 90%;
+    }
+    .imgman {
+        z-index: 10;
+        position: absolute;
+        left: -177px;
+        top: 271px;
+        max-width: 319px;
+        max-height: 277px;
+
+    }
+    .button_price {
+        margin-top: 324px;
+    }
+    .button_price a {
+        padding: 14px 58px;
+    }
+    .leftnav {
+        margin-left: 20px;
+        margin-top: 22px;
+    }
+    nav {
+        padding: 0;
+    } 
+    .rightnav {
+        display: none;
+    }
+    .head1 {
+        display: block;
+        width: 90%;
+        height: auto;
+        margin-left: 20px;
+        margin-top: 0px;
+        padding-top: 20px;
+    }
+    .head1 h1 {
+        font-size: 27px;
+    }
+    .scr_1 {
+        display: inline;
+        position: relative;
+        /* margin-top: 38px; */
+    }
+    .subhead {
+        display: block;
+        margin-top: 11px;
+    }
+    .subhead p {
+        margin-top: 2px;
+        font-size: 22px;
+    }
+    .feature {
+        max-width: 320px;
+    }
+    .desctop {
+        display: none;
+    }
+    .mobile {
+        display: inline;
+        
+    }
+    .mobile img {
+        width: 100%;
+    }
+    .partners {
+        margin: 0;
+        padding-top: 25px;
+        max-width: 277px;
+    }
+    .team_pana {
+        flex-direction: column;
+        max-width: 277px;
+        margin-left: 20px;
+        margin-top: 40px;
+    }
+    .feature_1 {
+        margin-top: 30px;
+    }
+    .feature_1 h2 {
+        font-size: 25px;
+    }
+    .feature_1 p {
+        padding-top: 20px;
+    }
+    .imgteam {
+        width: 277px;
+    }
+    .imgteam img {
+        width: 111%;
+    }
+    
+    .multi {
+        flex-direction: column-reverse;
+        max-width: 277px;
+        margin-left: 20px;
+        margin-top: 80px;
+    }
+    .imgmulti {
+        display: none;
+    }
+    
+    .imgmultimob {
+        display: inline-block;
+    }
+    .imgmultimob img {
+        width: 100%;
+    }
+    .feature_2 h2 {
+        font-size: 25px;
+    }
+    .feature_2 p {
+        padding-top: 20px;
+    }
+    .feature_2  {
+        width: 277px;
+    }
+    .button_agile a {
+        padding: 14px 59px;
+    }
+    .calculator {
+        flex-direction: column;
+        max-width: 277px;
+        margin-left: 20px;
+        margin-top: 80px;
+        padding-bottom: 0px;
+    }
+    .feature_3 h2 {
+        font-size: 25px;
+    }
+    .feature_3 p {
+        padding-top: 20px;
+    }
+    .feature_3  {
+        width: 277px;
+        margin-top: 30px;
+    }
+    .imgcalc {
+        width: 277px;
+    }
+    .imgcalc img {
+        width: 100%;
+    }
+    .cta {
+        max-width: 277px;
+        margin-left: 20px;
+    }
+    .cta h2 {
+        font-size: 25px;
+        text-align: center;
+    }
+    .button_reg_1 a {
+        padding: 14px 58px;
+    }
+    .z {
+        padding-top: 0px;
+    }
+    .cta h2 {
+        margin-top: 80px;
+    } 
+    .wrap {
+        max-width: 320px;
+    }
+    .service {
+        max-width: 320px;
+        height: auto;
+    }
+    .wedo {
+        flex-direction: column;
+        width: 280px;
+        height: 753px;
+        margin-left: 20px;
+        padding-bottom: 40px;
+        margin-top: 40px;
+    }
+    .wedocart1 {
+        width: 280px;
+        height: 231px;
+
+    }
+    .das p {
+        font-size: 15px;
+    }
+    .das {
+        margin-left: 22px;
+    }
+    .wedocart1 h3 {
+        margin-top: 17px;
+        margin-left: 22px;
+    }
+    .wedocart1 img {
+        width: 42px;
+        margin-top: 22px;
+        margin-left: 22px;
+    }
+    .service h2 {
+        font-size: 30px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 40px;
+    }
+
+    .wedocart2 {
+        width: 280px;
+        height: 231px;
+    }
+    .wedocart2 h3 {
+        margin-top: 17px;
+        margin-left: 22px;
+    }
+    .wedocart2 img {
+        width: 42px;
+        margin-top: 22px;
+        margin-left: 22px;
+    }
+
+    .wedocart3 {
+        width: 280px;
+        height: 231px;
+    }
+    .wedocart3 h3 {
+        margin-top: 17px;
+        margin-left: 22px;
+    }
+    .wedocart3 img {
+        width: 42px;
+        margin-top: 22px;
+        margin-left: 22px;
+    }
+    .works {
+        max-width: 320px;
+    }
+    .works h2 {
+        font-size: 30px;
+        padding-left: 0;
+        margin-left: 20px;
+        /* text-align: center; */
+        margin-top: 60px;
+    }
+    .variant {
+        flex-direction: column;
+        margin-left: 20px;
+        margin-top: 40px;
+        height: 115px;
+        max-width: 191px;
+    }
+    .variant a {
+        font-size: 25px;
+    }
+    .variant a:after {
+        display: none;
+    }
+    .variant a:active {
+        color: #272D4E;
+    }
+    .blockcarddev {
+        flex-direction: column;
+        max-width: 320px;
+        margin-left: 0px;
+        margin-top: 50px;
+        height: 1102px;
+    }
+    .carddev {
+        width: 280px;
+        max-height: 253px;
+        margin: 0 auto;
+        border-radius: 4px;
+    }
+    .carddev img {
+        width: 100%;
+        object-fit: cover;
+        object-position: 0 -10px;
+    }
+    .sign {
+        top: 152px;
+        left: 40px;
+    }
+    .sign:hover {
+        display: none;
+    }
+    .carddev:hover .sign {
+        top: 152px;
+    } 
+    .button_prj {
+        margin-left: 20px;
+
+    }
+    .button_prj a {
+        padding: 14px 42px;
+    }
+    .preim {
+        margin-top: 60px;
+        width: 320px;
+        height: auto;
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    .cardsrow {
+        max-width: 280px;
+        flex-direction: column;
+        margin-left: 20px;
+        height: 646px;
+        padding-top: 0px;
+        /* padding-bottom: 40px; */
+    }
+    .cardsrow_1 {
+        max-width: 280px;
+        flex-direction: column;
+        margin-left: 20px;
+        height: 646px;
+        padding-top: 0px;
+        margin-top: 50px;
+        /* padding-bottom: 40px; */
+    }
+
+    .cardpr {
+        margin-top: 0;
+        height: auto;
+        width: 280px;
+    }
+    .icon_header h3 {
+        font-size: 23px;
+    }
+    .cardpr p {
+        padding-top: 10px;
+    }
+    .callme {
+        width: 320px;
+        flex-direction: column;
+        margin-left: 0px;
+
+    }
+    .imgconnect {
+        width: 280px;
+        /* max-height: 253px; */
+        margin: 0 auto;
+        /* object-fit: cover; */
+    }
+    .imgconnect img {
+        width: 121%;
+        object-fit: cover;
+        object-position: -25px 0px;
+    }
+    .form {
+        margin-top: 45px;
+        width: 280px;
+        margin-left: 20px;
+        height: auto;
+    }
+    footer {
+        height: auto;
+        width: 320px;
+        height: 630px;
+        display: flex;
+        flex-direction: column;
+    }
+    .logoft {
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+    .leftbar {
+        margin-left: 20px;
+        padding-top: 30px;
+    }
+    .rightbar {
+        display: flex;
+        flex-direction: column;
+        margin-left: 20px;
+        padding-left: 0px;
+        margin-top: 40px;
+    }
+    .tel p {
+        font-size: 23px;
+        margin-top: 10px;
+    }
+    .wrapmenu {
+        flex-direction: column;
+        width: 320px;
+    }
+    .menubot a {
+        display: none;
+    }
+    .allrights {
+        margin-left: 20px;
+        flex-direction: column;
+        max-width: 320px;
+        margin-top: 40px;
+    }
+    .allrights p {
+        margin-top: 10px;
+    }
+    .menubot h5 {
+        margin-bottom: 12px;
+    }
+    .social {
+        width: 100px;
+    }
+    .blockcard {
+        display: none;
+    }
+    /* .slider {
+        margin-left: 0px;
+    } */
+
+}
+@media (min-width: 480px) {
+    .slider {
+        display: none;
+    }
+}
