@@ -100,7 +100,7 @@ p {
     /* flex: 0 0 640px; */
     max-width: 640px;
     max-height: 570px;
-    overflow: hidden;
+/*     overflow: hidden; */
 }
 .imgman img {
     width: 100%;
